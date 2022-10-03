@@ -384,8 +384,7 @@ footer {
   filter: grayscale(1) invert(1);
 }
 
-.footer__link,
-.footer__copyright {
+.footer__link, .footer__copyright {
   color: #fff;
 }
 
