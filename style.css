@@ -79,10 +79,10 @@ li{
   text-decoration: underline;
 }
 
-/*.nav__link--primary{
+.nav__link--primary{
   border: 2px solid #7342d6 ;
   border-radius: 4px;
-} */
+}
 
 .nav__link--primary:hover{
   text-decoration: none;
